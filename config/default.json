@@ -1,0 +1,6 @@
+{
+    "name": "App with NodeJS",
+    "mail": {
+        "server": "server-mailing"
+    }
+}
